@@ -1,4 +1,4 @@
-module github.com/ditointernet/aws-kcl-go
+module github.com/VictorCavalcanteLG/aws-kcl-go
 
 go 1.16
 

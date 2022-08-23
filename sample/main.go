@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	kcl "github.com/ditointernet/aws-kcl-go"
+	kcl "github.com/VictorCavalcanteLG/aws-kcl-go"
 )
 
 // WriteToFile implements aws-kcl RecordProcessor interface
